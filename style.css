@@ -1,0 +1,28 @@
+.quote-box{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a .quote-text{
+    text-align: center;
+    font-size: 24px;
+
+}
+
+a .quote-author{
+    text-align: right;
+    margin-top: 40px;
+}
+
+#equal{
+    margin-top: 50px;
+    margin-left: 600px;
+    width: 80px;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    font-size: 15px;
+    transform: translate(-4,0);
+
+}
